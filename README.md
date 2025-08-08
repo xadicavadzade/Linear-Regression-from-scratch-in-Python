@@ -1,6 +1,6 @@
 # Linear-Regression-from-scratch-in-Python
 
-#  Gradient Descent: Salary vs. Experience (Colab Magic) 
+Gradient Descent: Salary vs. Experience (Colab Magic) 
 
 🚀 **What it is**  
 A quirky and educational Colab notebook that demonstrates gradient descent on a toy "Years of Experience vs Salary" dataset — complete with scatter plots, fitted regression line
